@@ -35,13 +35,8 @@ This repository contains the following files:
 - GoogleNews.py: File provide with Python code.
 - README.me: File provide with an overview of the project.
 
-## 📸 Sample Output
-```
-Title: New law reforms in India
-Link: https://news.google.com/articles/xyz123 
+## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/2f070d13-6138-4c9a-9bfa-24e39e3c85dd)
 
-Title: Supreme Court decision on environmental laws
-Link: https://news.google.com/articles/abc456
-```
 ## 📝 Conclusion
-- This project showcases the use of Python libraries for real-time news scraping, focusing on legal topics. It provides an effective solution for collecting and displaying news articles from Google News. The scraped data can be easily integrated into any application, making it a valuable resource for apps that require up-to-date news content, such as legal research platforms, news aggregators, or custom dashboards.
+This project showcases the use of Python libraries for real-time news scraping, focusing on legal topics. It provides an effective solution for collecting and displaying news articles from Google News. The scraped data can be easily integrated into any application, making it a valuable resource for apps that require up-to-date news content, such as legal research platforms, news aggregators, or custom dashboards.
