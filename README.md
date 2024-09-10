@@ -21,11 +21,11 @@ pip install requests beautifulsoup4
 ```
 git clone https://github.com/Siddhi-Naik18/Google_News_WebScraping.git
 ```
-3. Navigate to the project directory:
+2. Navigate to the project directory:
 ```
  cd Google_News_WebScraping
  ```
-5. Run the Python script to scrape the news articles:
+3. Run the Python script to scrape the news articles:
 ```
 python news_scraper.py
 ```
